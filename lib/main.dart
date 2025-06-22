@@ -1,4 +1,3 @@
-import 'package:excess_task/day6.dart';
 import 'package:flutter/material.dart';
 import 'splash.dart';
 import 'package:google_fonts/google_fonts.dart';
